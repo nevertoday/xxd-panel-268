@@ -1,0 +1,84 @@
+{
+  "skill_description": "XXD Panel 268｜Quiet Symbol: compresses the subject of a photo into one tiny, quiet visual mark like a private collection stamp or organic, naive icon — just enough outline, pose and a few flat colour blocks to recall the original, soft lines, slight grain, paper texture and imperfect hand-drawn edges, a very small palette of soft, clear colours taken from the photo, the mark very small and placed centred, off-centre, against the edge or cropped on a large field of blank paper where the white space is the main element, and a few tiny words set as a collection label rather than a title. Not a commercial logo or cartoon. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-268 or asks for a tiny minimal symbol, naive icon or quiet personal mark from a photo.",
+  "short_description": "安静符号：把照片主体收成一个极小、安静、像私人收藏标记的视觉符号",
+  "zh-CN": {
+    "name": "安静符号",
+    "tagline": "把照片主体收成一个极小、安静、像私人收藏标记的视觉符号。",
+    "look": "只留下看到就能想到原物的那一点：一个轮廓、一个姿态和少量扁平色块，做成一个很小的稚拙图标。线条柔和，边缘有手工误差，带一点颗粒和纸纹，像手画后被保存下来的小标记，不像冷冰冰的商业 Logo。颜色从照片里取很少的几种，柔和、清透。符号非常小，放在一大片空白纸面上，可居中、偏心、贴边或被裁切，留白才是画面的主角。旁边只有几个细小的字，像收藏标签或品牌注记。",
+    "traits": ["极简符号", "稚拙图标", "情绪标记", "极端留白", "私人收藏", "极少颜色"],
+    "good": [
+      "一眼能认出的单个主体：一只企鹅、一把雨伞、一棵松树、一个风车",
+      "对自己有特别意义的小东西：一只旧杯子、家里的猫、常去的那家店门口",
+      "想做成私人印记、书签、收藏标签或极简壁纸的照片"
+    ],
+    "poor": [
+      "想保留场景、背景或细节的照片，这里只剩一个很小的符号",
+      "主体复杂、靠细节才能认出来的照片：某个人的长相、复杂机械",
+      "想要醒目商业 Logo、卡通图标或画面饱满的效果"
+    ]
+  },
+  "en": {
+    "name": "Quiet Symbol",
+    "tagline": "Compresses the subject of your photo into one tiny, quiet mark, like a stamp in a private collection.",
+    "look": "Only the bit that instantly recalls the original remains: an outline, a pose and a few flat colour blocks, made into a very small naïve icon. The lines are soft and the edges carry hand-made error, with a little grain and paper texture, like a small mark drawn by hand and kept, not a cold commercial logo. Just a few soft, clear colours are taken from the photo. The symbol is very small, set on a large field of blank paper, centred, off-centre, against the edge or cropped; the white space is the real subject of the image. Only a few tiny words sit nearby, like a collection label or brand note.",
+    "traits": ["Minimal symbol", "Naïve icon", "Emotional mark", "Extreme white space", "Private collection", "Very few colours"],
+    "good": [
+      "A single subject recognisable at a glance: a penguin, an umbrella, a pine tree, a windmill",
+      "Small things that mean something to you: an old mug, the family cat, the door of a favourite shop",
+      "Photos you want as a personal mark, bookmark, collection label or minimal wallpaper"
+    ],
+    "poor": [
+      "Photos where you want the scene, background or detail kept; only a tiny symbol remains",
+      "Complex subjects recognisable only through detail: a particular person's face, intricate machinery",
+      "Requests for a bold commercial logo, cartoon icon or a full, busy image"
+    ]
+  },
+  "ja": {
+    "name": "静かな記号",
+    "tagline": "写真の主役を、個人のコレクションに押された印のような、ごく小さく静かな記号にします。",
+    "look": "見ればすぐもとのものを思い出せる部分だけを残します。一つの輪郭、一つの姿勢、少しの平らな色面で、とても小さな素朴なアイコンをつくります。線はやわらかく、縁には手仕事の誤差があり、わずかな粒子と紙の目が残り、冷たい商業ロゴではなく、手で描いて大切にとっておいた小さな印のようです。色は写真からやわらかく澄んだ数色だけを取ります。記号はとても小さく、広い白い紙面に置かれ、中央でも、ずらしても、端に寄せても、切れてもよく、余白こそが画面の主役です。そばにはコレクションのラベルやブランドの注記のような、ごく小さな文字がいくつかあるだけです。",
+    "traits": ["ミニマルな記号", "素朴なアイコン", "気持ちの印", "極端な余白", "個人のコレクション", "ごく少ない色"],
+    "good": [
+      "一目でわかる一つの主役：ペンギン、傘、松の木、風車",
+      "自分にとって特別な小さなもの：古いマグカップ、家の猫、通い慣れたお店の入口",
+      "個人の印、しおり、コレクションラベル、ミニマルな壁紙にしたい写真"
+    ],
+    "poor": [
+      "場面や背景、細部を残したい写真（残るのはとても小さな記号一つです）",
+      "細部があってはじめてわかる複雑な主役：特定の人の顔立ち、複雑な機械",
+      "目立つ商業ロゴ、アニメ調のアイコン、画面を埋めた絵を求める場合"
+    ]
+  },
+  "ko": {
+    "name": "고요한 기호",
+    "tagline": "사진 속 주인공을 개인 소장품에 찍은 도장 같은, 아주 작고 조용한 기호로 압축합니다.",
+    "look": "보자마자 원래의 것을 떠올리게 하는 부분만 남깁니다. 윤곽 하나, 자세 하나, 납작한 색면 몇 개로 아주 작은 천진한 아이콘을 만듭니다. 선은 부드럽고 가장자리에는 손으로 만든 오차가 있으며 약간의 입자와 종이 결이 남아, 차가운 상업 로고가 아니라 손으로 그려 간직해 온 작은 표식 같습니다. 색은 사진에서 부드럽고 맑은 몇 가지만 가져옵니다. 기호는 아주 작게 넓은 빈 종이 위에 놓이며, 가운데에 두거나 비켜 두거나 가장자리에 붙이거나 잘려도 되고, 여백이야말로 화면의 주인공입니다. 옆에는 소장품 라벨이나 브랜드 메모 같은 아주 작은 글씨 몇 자만 있습니다.",
+    "traits": ["미니멀 기호", "천진한 아이콘", "감정의 표식", "극단적 여백", "개인 소장품", "아주 적은 색"],
+    "good": [
+      "한눈에 알아보는 주인공 하나: 펭귄, 우산, 소나무, 풍차",
+      "나에게 특별한 의미가 있는 작은 것: 오래된 머그잔, 집 고양이, 자주 가는 가게의 문",
+      "개인 표식, 책갈피, 소장품 라벨, 미니멀 배경화면으로 만들고 싶은 사진"
+    ],
+    "poor": [
+      "장면이나 배경, 세부를 살리고 싶은 사진(아주 작은 기호 하나만 남습니다)",
+      "세부가 있어야 알아보는 복잡한 주인공: 특정 인물의 얼굴, 복잡한 기계",
+      "눈에 띄는 상업 로고, 만화풍 아이콘, 화면을 꽉 채운 그림을 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "الرمز الهادئ",
+    "tagline": "يضغط عنصر صورتك في علامة صغيرة جداً هادئة، كختم في مجموعة مقتنيات خاصة.",
+    "look": "لا يبقى إلا الجزء الذي يستحضر الأصل فوراً: خط خارجي ووقفة وبضع كتل لونية مسطّحة، تُصنع منها أيقونة فطرية صغيرة جداً. الخطوط ناعمة والحواف فيها أخطاء اليد، مع شيء من الحبيبات وملمس الورق، كعلامة صغيرة رُسمت باليد وحُفظت، لا كشعار تجاري بارد. لا تُؤخذ من الصورة إلا ألوان قليلة ناعمة صافية. الرمز صغير جداً، موضوع على مساحة واسعة من الورق الفارغ، في الوسط أو بعيداً عنه أو ملاصقاً للحافة أو مقتطعاً؛ والفراغ الأبيض هو البطل الحقيقي للصورة. ولا يجاوره إلا بضع كلمات صغيرة جداً، كبطاقة مقتنى أو ملاحظة علامة تجارية.",
+    "traits": ["رمز بسيط", "أيقونة فطرية", "علامة شعورية", "فراغ أبيض شديد", "مجموعة خاصة", "ألوان قليلة جداً"],
+    "good": [
+      "عنصر واحد يُعرف من النظرة الأولى: بطريق، مظلة، شجرة صنوبر، طاحونة هواء",
+      "أشياء صغيرة لها معنى عندك: كوب قديم، قطة البيت، باب متجرك المفضل",
+      "صور تريدها علامة شخصية أو فاصل كتاب أو بطاقة مقتنى أو خلفية شاشة بسيطة"
+    ],
+    "poor": [
+      "صور تريد الاحتفاظ بمشهدها أو خلفيتها أو تفاصيلها؛ لا يبقى إلا رمز صغير جداً",
+      "عناصر معقدة لا تُعرف إلا بتفاصيلها: ملامح وجه شخص بعينه، آلات معقدة",
+      "طلب شعار تجاري لافت أو أيقونة كرتونية أو صورة ممتلئة مزدحمة"
+    ]
+  }
+}

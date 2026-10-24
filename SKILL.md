@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-268
-description: "Create XXD Panel 268 raster artwork: a faithful photograph paired with a tiny naive symbolic mark, extreme whitespace, soft handmade edges and a few emotional colors drawn from the photo. Accepts one image or a directory batch and supports top-bottom, left-right, design-only and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact or text-free typography. Use whenever the user invokes xxd-panel-268 or asks for this 安静符号 style."
+description: "XXD Panel 268｜Quiet Symbol: compresses the subject of a photo into one tiny, quiet visual mark like a private collection stamp or organic, naive icon — just enough outline, pose and a few flat colour blocks to recall the original, soft lines, slight grain, paper texture and imperfect hand-drawn edges, a very small palette of soft, clear colours taken from the photo, the mark very small and placed centred, off-centre, against the edge or cropped on a large field of blank paper where the white space is the main element, and a few tiny words set as a collection label rather than a title. Not a commercial logo or cartoon. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-268 or asks for a tiny minimal symbol, naive icon or quiet personal mark from a photo."
 ---
 
 # XXD Panel 268
